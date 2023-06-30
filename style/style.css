@@ -2,6 +2,10 @@
     font-family: myfont;
     src: url(./YesevaOne-Regular.ttf);
 }
+ol,
+ul {
+  padding-left: 0px !important;
+}
 *{
     margin: 0;
     padding: 0;
